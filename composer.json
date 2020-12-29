@@ -1,0 +1,13 @@
+{
+    "name": "etudiant/cours-thomas",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Laurent Dashwood",
+            "email": "laurentdashwood@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
